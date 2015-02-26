@@ -1,0 +1,10 @@
+pronom_perso_('j\'',_,'singular',1).
+pronom_perso_('je',_,'singular',1).
+pronom_perso_('tu',_,'singular',2).
+pronom_perso_('il','masculine','singular',3).
+pronom_perso_('elle','feminine','singular',3).
+pronom_perso_('on',_,'singular',3).
+pronom_perso_('nous',_,'plural',4).
+pronom_perso_('vous',_,'plural',5).
+pronom_perso_('ils','masculine','plural',6).
+pronom_perso_('elles','feminine','plural',6).

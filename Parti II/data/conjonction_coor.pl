@@ -1,0 +1,10 @@
+conjonction_coor_('alors','','alors','','','').
+conjonction_coor_('car','','car','','','').
+conjonction_coor_('donc','','donc','','','').
+conjonction_coor_('et','','et','','','').
+conjonction_coor_('mais','','mais','','','').
+conjonction_coor_('ni','','ni','','','').
+conjonction_coor_('or','','or','','','').
+conjonction_coor_('ore','','ore','','','').
+conjonction_coor_('ou','','ou','','','').
+conjonction_coor_('puis','','puis','','','').
